@@ -1,5 +1,5 @@
 # NetGate
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/netvoid-labs/netgate/Build)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/netvoid-labs/netgate/build.yml)
 ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/netvoid-labs/netgate)
 ![GitHub](https://img.shields.io/github/license/netvoid-labs/netgate)
 
