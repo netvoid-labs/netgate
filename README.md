@@ -13,6 +13,4 @@ go get github.com/netvoid-labs/netgate
 ```
 
 ## License
-```
 MIT
-```
